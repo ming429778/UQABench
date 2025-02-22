@@ -13,8 +13,8 @@ Specifically, the training set serves in the pre-training and fine-tuning (align
 
 
 ## Download Data & LLM
-* Download data from [Kaggle](https://www.kaggle.com/datasets/liulangmingliu/uqabench)
-* Downlaod `Qwen/Qwen2.5-3B-Instruct` from Huggingface.
+* Download data from [Kaggle](https://www.kaggle.com/datasets/liulangmingliu/uqabench).
+* Download `Qwen/Qwen2.5-3B-Instruct` from [Huggingface](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct).
 
 ## Requirements
 * pytorch 2.4
